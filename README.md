@@ -3,7 +3,7 @@
   # Olá, eu sou o João Vicente! 👋
   
   <h3> 
-    👨‍💻 Desenvolvedor Frontend/Mobile
+    👨‍💻 Desenvolvedor Frontend & Mobile
   </h3>
 
   <p>
@@ -27,27 +27,23 @@ Sou estudante de Sistemas de Informação na **UFF** e apaixonado por tecnologia
 
 * 🔭 **Atualmente:** Estagiário de Segurança da Informação (Red Team) na **Icatu Seguros**, focado em Pentest e segurança de aplicações.
 * 💼 **Experiência anterior:** Atuei como Desenvolvedor e Diretor na **IN Junior**, empresa júnior de computação, criando soluções digitais com React e NextJS.
-* ⚡ **Curiosidade:** Adoro criar interfaces bonitas, animadas e intuitivas. 
+* ⚡ **Curiosidade:** Adoro criar interfaces atraentes, animadas e intuitivas. 
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Front-end & Mobile**
 <div style="display: inline_block"><br>
   <img align="center" alt="React Native" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-</div>
-
-**Back-end, Banco de Dados & Ferramentas**
-<div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+</div>
 
 ---
 
@@ -55,12 +51,8 @@ Sou estudante de Sistemas de Informação na **UFF** e apaixonado por tecnologia
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| **Praiômetro (Extensão UFF)** | Desenvolvimento mobile de app para monitoramento de praias em Niterói. | React Native, JS |
-| **ÚteroGuard** | Frontend para sistema de gestão de saúde focado na prevenção do câncer de colo de útero. | React, TS |
+| **Praiômetro (Extensão UFF)** | Desenvolvimento mobile de app para monitoramento de praias em Niterói. | React Native, JavaScript |
+| **ÚteroGuard** | Frontend para sistema de gestão de saúde focado na prevenção do câncer de colo de útero. | React, TypeScript |
 | **PFMP Advogados** | Site institucional do escritório de advocacia tributária. | NextJS, React, JavaScript |
 
 ---
-
-<div align="center">
-  <sub>Feito com ❤️ e muito código.</sub>
-</div>
